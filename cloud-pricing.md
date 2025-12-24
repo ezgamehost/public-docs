@@ -2,7 +2,7 @@
 title: EZ Game Host Cloud Pricing
 description: The EZ Game Host Cloud Platform Pricing Plan
 published: true
-date: 2025-12-24T03:39:27.242Z
+date: 2025-12-24T03:46:04.040Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T03:39:27.242Z
@@ -39,5 +39,22 @@ Backups & Snapshots are stored at $5 per TB per month.
 
 ### Load Balancers
 
-We currently support two tiers of load balancers, 
+Load balancers are charged a flat rate of $5 per Load Balancer.
 
+### IP Addresses & Networking
+
+Public IPv4 addresses are charged $0.67 per address per month.
+
+Public IPv6 addresses are *ALWAYS* free and we will provide NAT64 gateways if a customer instance is IPv6 only
+
+BYoIP is $20 per month with a $25 setup fee if cloud managed.
+
+BGP sessions are provided complimentary to customers if interested.
+
+### Images
+
+Custom images can be uploaded for $0.025 per GB per month
+
+### DNS
+
+Managed DNS is $0.5 per month
